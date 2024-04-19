@@ -1,21 +1,20 @@
 def compare_rectangles(l1, b1, l2, b2):
     
-    
-    perimeter = 2*(l1+b1+l2+b2)
-    perimeter1 = 2*(l1+b1+l2+b2)
-    
-    area = (l1+l2)*(b1+b2)
-    area1 = (l1+l2)*(b1+b2)
-    
-    
-    if area>area1:
-        print ("true")
-    else :
-        print ("false")
         
-    if perimeter>perimeter1:
-        print ("true")
-    else :
-        print ("false")
+    a1=l1*b1
+    a2=l2*b2
+    
+    if(a1>a2):
+        print("true")
+    else:
+        print("false")
+        
+    p1=2*(l1+b1)
+    p2=2*(l2+b2)
+    
+    if(p1>p2):
+        print("true")
+    else:
+        print("false")
  
  
