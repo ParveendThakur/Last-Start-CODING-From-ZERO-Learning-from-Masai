@@ -1,0 +1,1 @@
+# Python function is a block of code, that runs only when it is called. It is programmed to return the specific task. You can pass values in functions called parameters.
