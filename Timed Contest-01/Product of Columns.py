@@ -1,0 +1,1 @@
+# https://oj.masaischool.com/contest/11994/problem/02
