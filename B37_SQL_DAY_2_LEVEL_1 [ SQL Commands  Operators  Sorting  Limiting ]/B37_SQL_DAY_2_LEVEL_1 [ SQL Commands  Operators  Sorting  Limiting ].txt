@@ -1,0 +1,101 @@
+Questions
+Q1
+Which SQL command is used to create a new table?
+
+PENDING
+
+Q2
+What does the DML category of SQL commands include?
+
+PENDING
+
+Q3
+What is the purpose of the GRANT command in SQL?
+
+PENDING
+
+Q4
+Which SQL command is used to save all transactions to the database?
+
+PENDING
+
+Q5
+Which of the following is a Data Query Language (DQL) command?
+
+PENDING
+
+Q6
+What does the ALTER TABLE command do?
+
+PENDING
+
+Q7
+Which command removes a column from an existing table?
+
+PENDING
+
+Q8
+Which command is used to delete an entire table and its data?
+
+PENDING
+
+Q9
+How do you delete all records from a table without deleting the table itself?
+
+PENDING
+
+Q10
+Which arithmetic operator can be used to find the remainder in SQL?
+
+PENDING
+
+Q11
+Which comparison operator is used to check if two values are not equal in SQL?
+
+PENDING
+
+Q12
+How do you filter data to retrieve rows where a column's value is within a specific range?
+
+PENDING
+
+Q13
+Which SQL operator is used to check for NULL values?
+
+PENDING
+
+Q14
+How do you sort the result set in descending order based on a column?
+
+PENDING
+
+Q15
+Which clause is used to limit the number of rows returned in a SQL query?
+
+PENDING
+
+Q16
+How do you skip the first 10 rows and return the next 10 rows in a query result?
+
+PENDING
+
+Q17
+Which keyword is used to remove duplicate rows from a result set in SQL?
+
+PENDING
+
+Q18
+Which logical operator retrieves records that satisfy at least one of the specified conditions?
+
+PENDING
+
+Q19
+How do you modify the data type of an existing column in a table?
+
+PENDING
+
+Q20
+Which SQL command would you use to see all databases on a server?
+
+PENDING
+
