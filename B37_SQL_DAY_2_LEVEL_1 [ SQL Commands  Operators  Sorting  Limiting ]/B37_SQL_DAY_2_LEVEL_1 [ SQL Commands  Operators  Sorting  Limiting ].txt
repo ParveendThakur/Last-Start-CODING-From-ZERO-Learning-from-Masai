@@ -4,6 +4,7 @@ Which SQL command is used to create a new table?
 
 PENDING
 
+
 Q2
 What does the DML category of SQL commands include?
 
