@@ -10,6 +10,7 @@ What does the DML category of SQL commands include?
 
 PENDING
 
+
 Q3
 What is the purpose of the GRANT command in SQL?
 
