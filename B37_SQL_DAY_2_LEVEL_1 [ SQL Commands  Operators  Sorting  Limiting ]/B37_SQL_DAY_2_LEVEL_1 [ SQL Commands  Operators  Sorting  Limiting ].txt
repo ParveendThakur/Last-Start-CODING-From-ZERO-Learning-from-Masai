@@ -16,6 +16,7 @@ What is the purpose of the GRANT command in SQL?
 
 PENDING
 
+
 Q4
 Which SQL command is used to save all transactions to the database?
 
