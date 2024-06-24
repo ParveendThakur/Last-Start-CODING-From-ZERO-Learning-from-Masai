@@ -40,6 +40,7 @@ Which command removes a column from an existing table?
 
 PENDING
 
+
 Q8
 Which command is used to delete an entire table and its data?
 
