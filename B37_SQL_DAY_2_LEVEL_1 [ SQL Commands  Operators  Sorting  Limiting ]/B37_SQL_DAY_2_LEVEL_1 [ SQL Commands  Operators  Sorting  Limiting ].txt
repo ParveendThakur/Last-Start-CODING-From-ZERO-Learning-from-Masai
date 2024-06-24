@@ -22,6 +22,7 @@ Which SQL command is used to save all transactions to the database?
 
 PENDING
 
+
 Q5
 Which of the following is a Data Query Language (DQL) command?
 
