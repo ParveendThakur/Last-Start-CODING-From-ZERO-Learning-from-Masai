@@ -34,6 +34,7 @@ What does the ALTER TABLE command do?
 
 PENDING
 
+
 Q7
 Which command removes a column from an existing table?
 
