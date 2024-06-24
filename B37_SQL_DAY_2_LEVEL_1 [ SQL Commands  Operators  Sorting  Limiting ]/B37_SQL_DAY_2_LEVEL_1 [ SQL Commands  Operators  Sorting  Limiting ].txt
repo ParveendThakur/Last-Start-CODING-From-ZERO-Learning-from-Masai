@@ -28,6 +28,7 @@ Which of the following is a Data Query Language (DQL) command?
 
 PENDING
 
+
 Q6
 What does the ALTER TABLE command do?
 
