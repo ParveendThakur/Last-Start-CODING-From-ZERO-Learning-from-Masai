@@ -47,6 +47,7 @@ Which command is used to delete an entire table and its data?
 
 PENDING
 
+
 Q9
 How do you delete all records from a table without deleting the table itself?
 
