@@ -53,6 +53,7 @@ How do you delete all records from a table without deleting the table itself?
 
 PENDING
 
+
 Q10
 Which arithmetic operator can be used to find the remainder in SQL?
 
