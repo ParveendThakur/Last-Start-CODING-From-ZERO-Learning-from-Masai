@@ -59,6 +59,7 @@ Which arithmetic operator can be used to find the remainder in SQL?
 
 PENDING
 
+
 Q11
 Which comparison operator is used to check if two values are not equal in SQL?
 
