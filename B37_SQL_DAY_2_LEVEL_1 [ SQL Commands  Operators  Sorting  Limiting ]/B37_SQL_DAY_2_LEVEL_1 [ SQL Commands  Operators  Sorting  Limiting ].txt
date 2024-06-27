@@ -65,6 +65,7 @@ Which comparison operator is used to check if two values are not equal in SQL?
 
 PENDING
 
+
 Q12
 How do you filter data to retrieve rows where a column's value is within a specific range?
 
