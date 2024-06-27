@@ -71,6 +71,7 @@ How do you filter data to retrieve rows where a column's value is within a speci
 
 PENDING
 
+
 Q13
 Which SQL operator is used to check for NULL values?
 
