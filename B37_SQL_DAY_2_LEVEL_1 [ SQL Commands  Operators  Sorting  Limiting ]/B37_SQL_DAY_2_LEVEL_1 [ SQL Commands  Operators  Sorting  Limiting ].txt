@@ -83,6 +83,7 @@ How do you sort the result set in descending order based on a column?
 
 PENDING
 
+
 Q15
 Which clause is used to limit the number of rows returned in a SQL query?
 
