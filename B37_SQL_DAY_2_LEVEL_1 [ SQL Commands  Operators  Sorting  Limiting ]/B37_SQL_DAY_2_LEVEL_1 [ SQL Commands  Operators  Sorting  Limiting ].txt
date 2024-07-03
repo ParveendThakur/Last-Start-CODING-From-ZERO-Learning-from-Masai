@@ -89,7 +89,6 @@ Which clause is used to limit the number of rows returned in a SQL query?
 
 PENDING
 
-
 Q16
 How do you skip the first 10 rows and return the next 10 rows in a query result?
 
