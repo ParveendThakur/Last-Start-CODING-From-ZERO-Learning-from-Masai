@@ -95,6 +95,7 @@ How do you skip the first 10 rows and return the next 10 rows in a query result?
 
 PENDING
 
+
 Q17
 Which keyword is used to remove duplicate rows from a result set in SQL?
 
