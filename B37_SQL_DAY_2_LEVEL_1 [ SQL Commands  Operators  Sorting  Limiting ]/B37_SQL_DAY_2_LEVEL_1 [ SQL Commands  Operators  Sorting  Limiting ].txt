@@ -98,6 +98,7 @@ PENDING
 Q17
 Which keyword is used to remove duplicate rows from a result set in SQL?
 
+
 PENDING
 
 Q18
