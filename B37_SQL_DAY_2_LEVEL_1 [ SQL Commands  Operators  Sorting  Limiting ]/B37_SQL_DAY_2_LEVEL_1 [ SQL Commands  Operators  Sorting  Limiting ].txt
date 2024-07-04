@@ -110,6 +110,7 @@ PENDING
 Q19
 How do you modify the data type of an existing column in a table?
 
+
 PENDING
 
 Q20
