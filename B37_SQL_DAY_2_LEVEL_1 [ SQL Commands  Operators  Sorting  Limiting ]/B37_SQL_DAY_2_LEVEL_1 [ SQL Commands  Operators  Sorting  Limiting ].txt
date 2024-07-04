@@ -104,6 +104,7 @@ PENDING
 Q18
 Which logical operator retrieves records that satisfy at least one of the specified conditions?
 
+
 PENDING
 
 Q19
