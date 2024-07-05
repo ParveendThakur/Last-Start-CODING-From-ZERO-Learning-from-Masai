@@ -116,5 +116,6 @@ PENDING
 Q20
 Which SQL command would you use to see all databases on a server?
 
+
 PENDING
 
